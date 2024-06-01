@@ -1,0 +1,9 @@
+#Train/Val/Test sets
+
+path: /content/drive/My Drive/coeur_duck_lene
+train: images/train
+val: images/val
+test: images/test
+
+names: 
+  0: rubber_duckie 
